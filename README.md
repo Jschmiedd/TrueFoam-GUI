@@ -5,7 +5,7 @@ Calcul de l'écoulement de l'air autour d'un drone FPV à partir de son STL, sur
 hélices, régime instationnaire. Gratuit, hors ligne, sans ligne de commande.
 
 TrueFoam GUI ouvre aussi les calculs faits sur le calculateur en ligne **TALKTRUE FPV V4** (zip « Écoulement »
-ou « Dossier d'étude ») : à la place de ParaView, ou en plus.
+ou « Dossier d'étude ») : en parallèle de ParaView, au choix de chacun.
 
 ## ⬇️ Télécharger
 
@@ -33,6 +33,7 @@ Détails : `LISEZMOI.txt` dans le zip.
 | Maillage | automatique ou niveaux imposés, couches limites, étude d'indépendance au maillage ; domaine automatique, préréglé ou sur mesure, contrôle d'obstruction |
 | Calcul | nombre de cœurs au choix, état du moteur en couleur, journal en direct |
 | Résultats | S·Cx, Cx, forces en N, convergence, pression Cp, coupes (vitesse, pression), sonde au clic, lignes de courant 3D, frottement, image PNG, CSV |
+| Vue 3D | VTK (le moteur de rendu de ParaView) : rotation fluide, modèles de plus d'un million de triangles, vues prêtes (face au vent, côté, dessus, dessous, sillage) |
 
 ---
 
