@@ -18,7 +18,7 @@ Toutes les versions : [Releases](https://github.com/Jschmiedd/TrueFoam-GUI/relea
 1. **Docker Desktop** ([docker.com](https://www.docker.com/products/docker-desktop/), option WSL 2), lancé :
    « Engine running ».
 2. Une fois, dans PowerShell : `docker pull opencfd/openfoam-default:2412`
-3. Dézipper **TrueFOAM-Windows.zip**, lancer **TrueFOAM.exe** (logiciel non signé : « Informations
+3. Dézipper **TrueFOAM-Windows.zip**, lancer **TrueFoam GUI v2412.exe** (logiciel non signé : « Informations
    complémentaires » > « Exécuter quand même »). Raccourcis bureau et menu Démarrer créés au premier lancement.
 4. Ruban **Exécuter** : bouton du moteur orange → cliquer une fois (1 à 5 min) ; il passe au vert « Moteur prêt ».
 
