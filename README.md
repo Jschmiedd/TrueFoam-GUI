@@ -33,6 +33,7 @@ Détails : `LISEZMOI.txt` dans le zip.
 | Maillage | automatique ou niveaux imposés, couches limites, étude d'indépendance au maillage ; domaine automatique, préréglé ou sur mesure, contrôle d'obstruction |
 | Calcul | nombre de cœurs au choix, état du moteur en couleur, journal en direct |
 | Résultats | S·Cx, Cx, forces en N, convergence, pression Cp, coupes (vitesse, pression), sonde au clic, lignes de courant 3D, frottement, image PNG, CSV |
+| Thermique (en essai) | refroidissement des pièces chaudes par l'air de vol (moteurs, ESC) : chaleur évacuée, coefficient d'échange h, température d'équilibre, pièces qui tournent sur leur axe (cloches, tuyères), air du calcul repris, poussée due à la chaleur (estimation) |
 | Vue 3D | VTK (le moteur de rendu de ParaView) : rotation fluide, modèles de plus d'un million de triangles, vues prêtes (face au vent, côté, dessus, dessous, sillage) |
 
 ---
